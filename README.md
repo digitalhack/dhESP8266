@@ -1,2 +1,2 @@
 # dhESP8266
-Digitalhack's Example ESP8266 Programs
+digitalhack's ESP8266 Examples
