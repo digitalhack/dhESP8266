@@ -3,6 +3,8 @@ dhESP8266
 
 digitalhack's ESP8266 Examples
 
+Information on these examples can be found here: http://digitalhacksblog.blogspot.com/2015/03/esp8266-program-examples.html.
+
 ##Hello Digitalhack Example##
 
 digitalhack / dhESP8266 / hello_digitalhack
